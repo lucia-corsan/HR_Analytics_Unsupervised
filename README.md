@@ -1,5 +1,7 @@
 # Stationarity in Data Scientists' Roles
-
+- Course: Statistical Learning
+- Grade: 9.5/10
+  
 This repository contains a study on stationarity in data scientists' roles using R. 
 
 ## Techniques Used
